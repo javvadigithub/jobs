@@ -1,2 +1,0 @@
-# blog
-Knowledge Base Information 
